@@ -24,9 +24,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Register routes
+# Register routes (both /api and root level for serverless rewrites compatibility)
 app.include_router(health_router, prefix="/api", tags=["Health"])
 app.include_router(api_router, prefix="/api", tags=["RAG Services"])
+app.include_router(health_router, tags=["Health Root"])
+app.include_router(api_router, tags=["RAG Services Root"])
 
 @app.get("/")
 def root():
