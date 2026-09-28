@@ -1,0 +1,176 @@
+{
+  "group_name": "Brillanz Group",
+  "description": "Multi-entity enterprise technology group operating in AI, custom software, IoT, clean energy, and cybersecurity.",
+  "total_websites": 7,
+  "last_updated": "2026-09-22",
+  "websites": [
+    {
+      "id": "softoo",
+      "name": "Softoo",
+      "url": "https://softoo.co/",
+      "category": "Custom Software & Agile Teams",
+      "tagline": "Empowering businesses through smart software development & dedicated engineers.",
+      "priority_paths": [
+        "/",
+        "/about/",
+        "/team/",
+        "/services/",
+        "/industries/",
+        "/case-studies/",
+        "/contact/"
+      ],
+      "key_topics": [
+        "Custom Software Development",
+        "Dedicated Agile Teams",
+        "Web & Mobile Engineering",
+        "Cloud Migration",
+        "AI Integration"
+      ]
+    },
+    {
+      "id": "okoinsights",
+      "name": "OKO Insights",
+      "url": "https://okoinsights.ai/",
+      "category": "AI Vision & Video Analytics",
+      "tagline": "Transforming CCTV and visual feeds into actionable real-time operational intelligence.",
+      "priority_paths": [
+        "/",
+        "/solutions",
+        "/products",
+        "/industries",
+        "/technology",
+        "/case-studies",
+        "/about",
+        "/contact",
+        "/privacy-policy"
+      ],
+      "key_topics": [
+        "Computer Vision",
+        "Crowd Flow Analytics",
+        "Retail Heatmaps",
+        "Safety & Security Monitoring",
+        "Automated Edge Video Intelligence"
+      ]
+    },
+    {
+      "id": "yanipro",
+      "name": "Yani Pro",
+      "url": "https://yanipro.ai/",
+      "category": "Autonomous AI Agents & Customer Interaction",
+      "tagline": "Next-generation AI agents automating complex customer workflows and conversations.",
+      "priority_paths": [
+        "/",
+        "/features",
+        "/integrations",
+        "/solutions",
+        "/pricing",
+        "/docs",
+        "/about",
+        "/contact",
+        "/privacy-policy"
+      ],
+      "key_topics": [
+        "Autonomous AI Agents",
+        "Conversational AI",
+        "Multimodal Customer Support",
+        "Workflow Automation",
+        "CRM Integrations"
+      ]
+    },
+    {
+      "id": "cratus",
+      "name": "Cratus UK",
+      "url": "https://cratus.uk/",
+      "category": "Smart Infrastructure & IoT Telemetry",
+      "tagline": "Delivering smart city telemetry, environmental sensing, and IoT utility grid control.",
+      "priority_paths": [
+        "/",
+        "/services",
+        "/sectors",
+        "/projects",
+        "/insights",
+        "/about-us",
+        "/contact-us",
+        "/privacy-policy"
+      ],
+      "key_topics": [
+        "Smart City Systems",
+        "Environmental IoT Monitoring",
+        "Telemetry & Sensor Grids",
+        "Infrastructure Advisory",
+        "Local Government Technology"
+      ]
+    },
+    {
+      "id": "sctechglobal",
+      "name": "SC Tech Global",
+      "url": "https://www.sctechglobal.com/",
+      "category": "Supply Chain & Enterprise Cloud",
+      "tagline": "End-to-end digital transformation for global supply chains and cloud ecosystems.",
+      "priority_paths": [
+        "/",
+        "/solutions",
+        "/services",
+        "/industries",
+        "/about",
+        "/insights",
+        "/contact"
+      ],
+      "key_topics": [
+        "Supply Chain Automation",
+        "Enterprise ERP & CRM Integration",
+        "Cloud Architecture",
+        "Logistics Intelligence",
+        "Data Warehousing"
+      ]
+    },
+    {
+      "id": "thunderenergy",
+      "name": "Thunder Energy AI",
+      "url": "https://www.thunderenergy.ai/",
+      "category": "Clean Energy Intelligence & Battery Optimization",
+      "tagline": "AI-driven renewable energy management, battery storage optimization, and grid balancing.",
+      "priority_paths": [
+        "/",
+        "/technology",
+        "/products",
+        "/solutions",
+        "/sustainability",
+        "/about",
+        "/news",
+        "/contact"
+      ],
+      "key_topics": [
+        "Battery Energy Storage Systems (BESS)",
+        "Renewable Forecasting",
+        "Grid Balancing Algorithms",
+        "Green Energy Analytics",
+        "Carbon Tracking"
+      ]
+    },
+    {
+      "id": "scorpbit",
+      "name": "Scorpbit",
+      "url": "https://scorpbit.com/",
+      "category": "Cybersecurity & Threat Defense",
+      "tagline": "Advanced offensive and defensive cybersecurity, penetration testing, and cloud compliance.",
+      "priority_paths": [
+        "/",
+        "/services",
+        "/solutions",
+        "/security-audit",
+        "/threat-intelligence",
+        "/about",
+        "/contact",
+        "/privacy-policy"
+      ],
+      "key_topics": [
+        "Penetration Testing & Red Teaming",
+        "SOC & Threat Monitoring",
+        "Cloud Security Compliance (ISO/SOC2)",
+        "Vulnerability Management",
+        "Incident Response"
+      ]
+    }
+  ]
+}
